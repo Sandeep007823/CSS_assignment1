@@ -1,0 +1,51 @@
+#head{
+    color:red;
+}
+h2{
+    color:rgb(31, 236, 4);
+    font-style:italic;
+}
+#one{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#Two{
+    font-weight:bold;
+    background-color: yellow;
+}
+#st{
+    text-decoration: underline;
+    font-style: italic;
+}
+.margin{
+    margin:20px 25px;
+}
+#head2{
+    color:red;
+}
+ul li{
+    letter-spacing: 5px;
+    color:brown;
+}
+#cl{
+    background-color: yellow;
+}
+p{
+    color:brown;
+    font-size: large;
+    font-weight: lighter;
+}
+#para1{
+    font-size: xx-small;
+}
+#para2{
+    font-weight: 800;
+    font-style: italic;
+    font-size: medium;
+}
+a{
+    text-decoration: none;
+    background-color: rgb(238, 238, 75);
+    color:red;
+    cursor:pointer;
+}
